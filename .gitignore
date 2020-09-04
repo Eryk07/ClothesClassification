@@ -2,3 +2,5 @@ venv/
 .idea/
 data/
 .ipynb_checkpoints/
+
+models/nneighbors*
