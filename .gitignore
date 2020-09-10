@@ -3,5 +3,22 @@ venv/
 data/
 .ipynb_checkpoints/
 
+# models:
 models/nneighbors*
 models/svc.sav
+models/dectree_maxdepth10.sav
+models/dectree_maxdepth11.sav
+models/dectree_maxdepth13.sav
+models/dectree_maxdepth14.sav
+models/dectree_maxdepth15.sav
+models/dectree_maxdepth16.sav
+models/dectree_maxdepth17.sav
+models/dectree_maxdepth18.sav
+models/dectree_maxdepth19.sav
+models/dectree_maxdepth20.sav
+models/dectree_maxdepth25.sav
+models/dectree_maxdepth30.sav
+models/dectree_maxdepth35.sav
+models/dectree_maxdepth40.sav
+models/dectree_maxdepth45.sav
+models/dectree_maxdepth5.sav
